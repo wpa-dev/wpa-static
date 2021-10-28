@@ -1,0 +1,21 @@
+/* this is all for the Qode Slider with parallax problem */
+
+.full_width{
+	position: static;
+}
+
+.full_width_inner{
+    position: relative;
+}
+
+.container{
+    position: static;
+}
+
+.container_inner{
+    position: relative;
+}
+
+.carousel-inner .slider_content .text{
+    -webkit-transform: translateZ(0px) !important;
+}

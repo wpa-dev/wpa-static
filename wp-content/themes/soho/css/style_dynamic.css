@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+	.header_bottom{
+		background-color: rgba(255,255,255,.1);
+	}
+
+	
+
+	header.scrolled .header_bottom,
+	header.scrolled .header_top{
+		background-color: rgba(255,255,255,1) !important;
+	}
+
+
+
+
+	.header_top{
+		background-color: rgba(8,8,8,.1);
+	}
+
+
+	header.sticky .header_top{
+		background-color: rgba(8,8,8,1);
+	}
+
+
+	header.scrolled .header_bottom {
+	    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.11);
+	    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.11);
+	    -o-box-shadow: 0 1px 3px rgba(0,0,0,0.11);
+	    box-shadow: 0 1px 3px rgba(0,0,0,0.11);
+	}
+
+
+
+	.content{
+		margin-top: 0;
+	}
+
+	.content.content_top_margin{
+		margin-top: 110px !important;
+	}
+
+
+
+
+
+    .touch section.parallax_section_holder{
+        height: auto !important;
+        min-height: 300px;
+        background-position: center top !important;
+        background-attachment: scroll;
+    }
+
+    @media only screen and (max-width: 1000px){
+        section.parallax_section_holder{
+            height: auto !important;
+            min-height: 300px;
+            background-position: center top !important;
+            background-attachment: scroll;
+        }
+    }
+
+
+
+    @media only screen and (max-width: 768px){
+        section.parallax_section_holder{
+            min-height: 400px;
+            background-size: cover;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.title h6, .title{
+		text-align: ;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		.q_google_map{
+			height: 545px;
+		}
+
+
+    .footer_top_holder{
+    background-image: url('https://whitepants.io/wp-content/uploads/2017/04/footer_theme18-300x60.jpeg');
+    }
+
+
+
+
+
+
+
+
+
+	.woocommerce .content .content_inner > .container > .container_inner,
+	.woocommerce-cart .content .content_inner > .container > .container_inner,
+	.woocommerce-checkout .content .content_inner > .container > .container_inner,
+	.woocommerce-account .content .content_inner > .container > .container_inner{
+		padding-top:50px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

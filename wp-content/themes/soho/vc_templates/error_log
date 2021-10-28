@@ -1,0 +1,4 @@
+[21-Apr-2017 19:05:39 UTC] PHP Fatal error:  Call to undefined function shortcode_atts() in /home/adminwpa6/public_html/wp-content/themes/soho/vc_templates/qode_progress_bar_vertical.php on line 18
+[13-Jun-2017 17:48:19 UTC] PHP Fatal error:  Call to undefined function shortcode_atts() in /home/adminwpa6/public_html/wp-content/themes/soho/vc_templates/qode_progress_bar_vertical.php on line 18
+[20-Jul-2017 13:43:58 UTC] PHP Fatal error:  Call to undefined function shortcode_atts() in /home/adminwpa6/public_html/wp-content/themes/soho/vc_templates/qode_progress_bar_vertical.php on line 18
+[28-Jul-2017 07:34:53 UTC] PHP Fatal error:  Call to undefined function shortcode_atts() in /home/adminwpa6/public_html/wp-content/themes/soho/vc_templates/qode_progress_bar_vertical.php on line 18
