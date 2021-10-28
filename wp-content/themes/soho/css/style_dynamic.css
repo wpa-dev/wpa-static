@@ -158,12 +158,6 @@
 
 
 
-	.woocommerce .content .content_inner > .container > .container_inner,
-	.woocommerce-cart .content .content_inner > .container > .container_inner,
-	.woocommerce-checkout .content .content_inner > .container > .container_inner,
-	.woocommerce-account .content .content_inner > .container > .container_inner{
-		padding-top:50px;
-	}
 
 
 
