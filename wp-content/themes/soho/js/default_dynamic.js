@@ -113,7 +113,7 @@ function codeAddress(data) {
 			var marker = new google.maps.Marker({
 				map: map,
 				position: results[0].geometry.location,
-								icon:  'https://whitepants.io/wp-content/uploads/2014/09/WP-HQ.png',
+								icon:  'https://current.whitepants.io/wp-content/uploads/2014/09/WP-HQ.png',
 								title: data['store_title']
 			});
 			google.maps.event.addListener(marker, 'click', function() {
@@ -146,7 +146,7 @@ function showContactMap() {
 }
 
 var no_ajax_pages = [];
-var qode_root = 'https://whitepants.io/';
-var theme_root = 'https://whitepants.io/wp-content/themes/soho/';
+var qode_root = 'https://current.whitepants.io/';
+var theme_root = 'https://current.whitepants.io/wp-content/themes/soho/';
 var header_style_admin = "";
 		no_ajax_pages.push('');
